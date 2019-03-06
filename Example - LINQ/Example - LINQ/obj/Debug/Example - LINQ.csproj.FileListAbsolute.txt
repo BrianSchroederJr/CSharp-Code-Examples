@@ -1,0 +1,13 @@
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - LINQ\Example - LINQ\bin\Debug\Example - LINQ.exe.config
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - LINQ\Example - LINQ\bin\Debug\Example - LINQ.exe
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - LINQ\Example - LINQ\bin\Debug\Example - LINQ.pdb
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - LINQ\Example - LINQ\obj\Debug\Example - LINQ.csprojResolveAssemblyReference.cache
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - LINQ\Example - LINQ\obj\Debug\Example - LINQ.exe
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - LINQ\Example - LINQ\obj\Debug\Example - LINQ.pdb
+F:\My Court Projects\Visual Studio 2012\Projects\Example - LINQ\Example - LINQ\bin\Debug\Example - LINQ.exe.config
+F:\My Court Projects\Visual Studio 2012\Projects\Example - LINQ\Example - LINQ\bin\Debug\Example - LINQ.exe
+F:\My Court Projects\Visual Studio 2012\Projects\Example - LINQ\Example - LINQ\bin\Debug\Example - LINQ.pdb
+F:\My Court Projects\Visual Studio 2012\Projects\Example - LINQ\Example - LINQ\obj\Debug\Example - LINQ.csprojAssemblyReference.cache
+F:\My Court Projects\Visual Studio 2012\Projects\Example - LINQ\Example - LINQ\obj\Debug\Example - LINQ.csproj.CoreCompileInputs.cache
+F:\My Court Projects\Visual Studio 2012\Projects\Example - LINQ\Example - LINQ\obj\Debug\Example - LINQ.exe
+F:\My Court Projects\Visual Studio 2012\Projects\Example - LINQ\Example - LINQ\obj\Debug\Example - LINQ.pdb
