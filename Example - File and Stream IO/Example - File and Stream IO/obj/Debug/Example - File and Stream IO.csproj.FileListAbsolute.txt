@@ -1,0 +1,13 @@
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\bin\Debug\Example - File and Stream IO.exe.config
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\bin\Debug\Example - File and Stream IO.exe
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\bin\Debug\Example - File and Stream IO.pdb
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\obj\Debug\Example - File and Stream IO.csprojResolveAssemblyReference.cache
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\obj\Debug\Example - File and Stream IO.exe
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\obj\Debug\Example - File and Stream IO.pdb
+F:\My Court Projects\Visual Studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\bin\Debug\Example - File and Stream IO.exe.config
+F:\My Court Projects\Visual Studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\bin\Debug\Example - File and Stream IO.exe
+F:\My Court Projects\Visual Studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\bin\Debug\Example - File and Stream IO.pdb
+F:\My Court Projects\Visual Studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\obj\Debug\Example - File and Stream IO.csprojAssemblyReference.cache
+F:\My Court Projects\Visual Studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\obj\Debug\Example - File and Stream IO.csproj.CoreCompileInputs.cache
+F:\My Court Projects\Visual Studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\obj\Debug\Example - File and Stream IO.exe
+F:\My Court Projects\Visual Studio 2012\Projects\Example - File and Stream IO\Example - File and Stream IO\obj\Debug\Example - File and Stream IO.pdb
