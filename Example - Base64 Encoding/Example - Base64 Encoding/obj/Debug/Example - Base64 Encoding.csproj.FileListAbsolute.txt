@@ -1,0 +1,13 @@
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\bin\Debug\Example - Base64 Encoding.exe.config
+c:\Users\bschroeder\Documents\Visual Studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\bin\Debug\Example - Base64 Encoding.exe
+c:\Users\bschroeder\Documents\Visual Studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\bin\Debug\Example - Base64 Encoding.pdb
+c:\Users\bschroeder\Documents\Visual Studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\obj\Debug\Example - Base64 Encoding.csprojResolveAssemblyReference.cache
+c:\Users\bschroeder\Documents\Visual Studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\obj\Debug\Example - Base64 Encoding.exe
+c:\Users\bschroeder\Documents\Visual Studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\obj\Debug\Example - Base64 Encoding.pdb
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\bin\Debug\Example - Base64 Encoding.exe.config
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\bin\Debug\Example - Base64 Encoding.exe
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\bin\Debug\Example - Base64 Encoding.pdb
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\obj\Debug\Example - Base64 Encoding.csprojAssemblyReference.cache
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\obj\Debug\Example - Base64 Encoding.csproj.CoreCompileInputs.cache
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\obj\Debug\Example - Base64 Encoding.exe
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Base64 Encoding\Example - Base64 Encoding\obj\Debug\Example - Base64 Encoding.pdb
