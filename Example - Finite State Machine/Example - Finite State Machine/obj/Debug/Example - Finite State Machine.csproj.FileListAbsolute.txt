@@ -1,0 +1,13 @@
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\bin\Debug\Example - Finite State Machine.exe.config
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\bin\Debug\Example - Finite State Machine.exe
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\bin\Debug\Example - Finite State Machine.pdb
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\obj\Debug\Example - Finite State Machine.csprojResolveAssemblyReference.cache
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\obj\Debug\Example - Finite State Machine.exe
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\obj\Debug\Example - Finite State Machine.pdb
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\bin\Debug\Example - Finite State Machine.exe.config
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\bin\Debug\Example - Finite State Machine.exe
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\bin\Debug\Example - Finite State Machine.pdb
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\obj\Debug\Example - Finite State Machine.csprojAssemblyReference.cache
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\obj\Debug\Example - Finite State Machine.csproj.CoreCompileInputs.cache
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\obj\Debug\Example - Finite State Machine.exe
+F:\My Court Projects\Visual Studio 2012\Projects\Example - Finite State Machine\Example - Finite State Machine\obj\Debug\Example - Finite State Machine.pdb
