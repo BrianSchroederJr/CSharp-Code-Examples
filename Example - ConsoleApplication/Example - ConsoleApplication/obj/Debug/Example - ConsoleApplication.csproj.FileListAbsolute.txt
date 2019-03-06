@@ -1,0 +1,13 @@
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\bin\Debug\Example - ConsoleApplication.exe.config
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\bin\Debug\Example - ConsoleApplication.exe
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\bin\Debug\Example - ConsoleApplication.pdb
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\obj\Debug\Example - ConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\obj\Debug\Example - ConsoleApplication.exe
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\obj\Debug\Example - ConsoleApplication.pdb
+F:\My Court Projects\Visual Studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\bin\Debug\Example - ConsoleApplication.exe.config
+F:\My Court Projects\Visual Studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\bin\Debug\Example - ConsoleApplication.exe
+F:\My Court Projects\Visual Studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\bin\Debug\Example - ConsoleApplication.pdb
+F:\My Court Projects\Visual Studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\obj\Debug\Example - ConsoleApplication.csprojAssemblyReference.cache
+F:\My Court Projects\Visual Studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\obj\Debug\Example - ConsoleApplication.csproj.CoreCompileInputs.cache
+F:\My Court Projects\Visual Studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\obj\Debug\Example - ConsoleApplication.exe
+F:\My Court Projects\Visual Studio 2012\Projects\Example - ConsoleApplication\Example - ConsoleApplication\obj\Debug\Example - ConsoleApplication.pdb
