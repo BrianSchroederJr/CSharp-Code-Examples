@@ -1,0 +1,4 @@
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarLibrary\Example - CarLibrary\bin\Debug\Example - CarLibrary.dll
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarLibrary\Example - CarLibrary\bin\Debug\Example - CarLibrary.pdb
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarLibrary\Example - CarLibrary\obj\Debug\Example - CarLibrary.dll
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarLibrary\Example - CarLibrary\obj\Debug\Example - CarLibrary.pdb

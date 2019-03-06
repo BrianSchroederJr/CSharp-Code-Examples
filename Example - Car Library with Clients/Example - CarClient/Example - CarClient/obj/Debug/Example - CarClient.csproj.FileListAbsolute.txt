@@ -1,0 +1,6 @@
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClient\Example - CarClient\bin\Debug\Example - CarClient.exe.config
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClient\Example - CarClient\bin\Debug\Example - CarClient.exe
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClient\Example - CarClient\bin\Debug\Example - CarClient.pdb
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClient\Example - CarClient\obj\Debug\Example - CarClient.csprojResolveAssemblyReference.cache
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClient\Example - CarClient\obj\Debug\Example - CarClient.exe
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClient\Example - CarClient\obj\Debug\Example - CarClient.pdb

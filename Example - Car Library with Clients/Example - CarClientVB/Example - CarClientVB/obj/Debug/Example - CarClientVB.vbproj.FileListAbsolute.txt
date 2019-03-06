@@ -1,0 +1,12 @@
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClientVB\Example - CarClientVB\bin\Debug\Example - CarClientVB.exe.config
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClientVB\Example - CarClientVB\bin\Debug\Example - CarClientVB.exe
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClientVB\Example - CarClientVB\bin\Debug\Example - CarClientVB.pdb
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClientVB\Example - CarClientVB\bin\Debug\Example - CarClientVB.xml
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClientVB\Example - CarClientVB\bin\Debug\Example - CarLibrary.dll
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClientVB\Example - CarClientVB\bin\Debug\Example - CarLibrary.pdb
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClientVB\Example - CarClientVB\obj\Debug\Example - CarClientVB.vbprojResolveAssemblyReference.cache
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClientVB\Example - CarClientVB\obj\Debug\Example___CarClientVB.Resources.resources
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClientVB\Example - CarClientVB\obj\Debug\Example - CarClientVB.vbproj.GenerateResource.Cache
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClientVB\Example - CarClientVB\obj\Debug\Example - CarClientVB.exe
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClientVB\Example - CarClientVB\obj\Debug\Example - CarClientVB.xml
+c:\users\bschroeder\documents\visual studio 2012\Projects\Example - CarClientVB\Example - CarClientVB\obj\Debug\Example - CarClientVB.pdb
