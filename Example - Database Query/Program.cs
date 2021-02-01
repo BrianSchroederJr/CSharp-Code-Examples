@@ -66,10 +66,7 @@ namespace Example___Database_Query
                 // Display any exeptions
                 Console.WriteLine("An exception was thrown when trying to connect to the database server: " + ex.Message);
             }
-
-            // Query Table
-            // Display Top 10 results
-
+            
             // Wait for key press to continue
             Console.WriteLine();
             Console.Write("Press any key to continue...");
