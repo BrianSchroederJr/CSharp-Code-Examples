@@ -1,0 +1,7 @@
+C:\Users\bschroeder\source\repos\Example - Database Query\bin\Debug\Example - Database Query.exe.config
+C:\Users\bschroeder\source\repos\Example - Database Query\bin\Debug\Example - Database Query.exe
+C:\Users\bschroeder\source\repos\Example - Database Query\bin\Debug\Example - Database Query.pdb
+C:\Users\bschroeder\source\repos\Example - Database Query\obj\Debug\Example - Database Query.csprojAssemblyReference.cache
+C:\Users\bschroeder\source\repos\Example - Database Query\obj\Debug\Example - Database Query.csproj.CoreCompileInputs.cache
+C:\Users\bschroeder\source\repos\Example - Database Query\obj\Debug\Example - Database Query.exe
+C:\Users\bschroeder\source\repos\Example - Database Query\obj\Debug\Example - Database Query.pdb
