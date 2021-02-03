@@ -26,19 +26,17 @@ namespace Example___Database_Query
                     string myQuery = "SELECT [Name],[Balance],[Description] FROM[DATABASENAME].[dbo].[TABLENAME]";
                     SqlCommand myCmd = new SqlCommand(myQuery, conn);
 
-                    // Display Top 10 results - You could also loop through the entire result set here
                     // Execute query using a DataReader.  You can use a DataTable if you need to run through the results multiple times or sort the data returned.
                     SqlDataReader myData = myCmd.ExecuteReader();
 
                     // Check that records were returned
                     if (myData.HasRows)
                     {
-                        // Display Top 10 results - You could also loop through the entire result set here
                         //while (myData.Read()) - Full Loop
+                        // Display Top 10 results - You could also loop through the entire result set here
                         for(int i = 1; i <= 10; i++)
                         {
-                            //display retrieved record (first column only/string value)
-                            //Console.WriteLine(myData.GetString(0));
+                            // Try to read a record from the results
                             try
                             {
                                 // Read a record of the returned data
