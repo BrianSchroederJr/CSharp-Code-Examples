@@ -14,6 +14,7 @@ namespace Example___Database_Query
             // Connect to Database/Server
             string connString = @"Server=SERVERNAME;Database=DATABASENAME;Trusted_Connection=True;";
 
+            // Try to create an instance of an SQL Connection
             try
             {
                 using (SqlConnection conn = new SqlConnection(connString))
@@ -59,8 +60,8 @@ namespace Example___Database_Query
                         Console.WriteLine("No data found.");
                     }
                     myData.Close();
-                }// end using - leaving this code block closes the SqlConnection object for us
-            }
+                }// END using SQLConnection - leaving this code block closes the SqlConnection object for us
+            }// END - try create connection
             catch (Exception ex)
             {
                 // Display any exeptions
