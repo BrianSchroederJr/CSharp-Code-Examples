@@ -1,0 +1,7 @@
+C:\Users\bschroeder\source\repos\Example - Database Stored Procedure\bin\Debug\Example - Database Stored Procedure.exe.config
+C:\Users\bschroeder\source\repos\Example - Database Stored Procedure\bin\Debug\Example - Database Stored Procedure.exe
+C:\Users\bschroeder\source\repos\Example - Database Stored Procedure\bin\Debug\Example - Database Stored Procedure.pdb
+C:\Users\bschroeder\source\repos\Example - Database Stored Procedure\obj\Debug\Example - Database Stored Procedure.csprojAssemblyReference.cache
+C:\Users\bschroeder\source\repos\Example - Database Stored Procedure\obj\Debug\Example - Database Stored Procedure.csproj.CoreCompileInputs.cache
+C:\Users\bschroeder\source\repos\Example - Database Stored Procedure\obj\Debug\Example - Database Stored Procedure.exe
+C:\Users\bschroeder\source\repos\Example - Database Stored Procedure\obj\Debug\Example - Database Stored Procedure.pdb
