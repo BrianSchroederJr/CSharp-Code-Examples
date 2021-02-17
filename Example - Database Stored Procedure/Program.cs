@@ -27,14 +27,21 @@ namespace Example___Database_Stored_Procedure
                     SqlCommand myCmd = new SqlCommand(spName, conn);
                     myCmd.CommandType = System.Data.CommandType.StoredProcedure;
 
+                    // Set up input parameter
                     SqlParameter param1 = new SqlParameter();
                     param1.ParameterName = "@CustID";
                     param1.SqlDbType = System.Data.SqlDbType.Int;
                     param1.Value = 123456;
                     myCmd.Parameters.Add(param1);
+                    
+                    // Set up return/output parameter
                     var returnParam = myCmd.Parameters.Add("@ReturnVal", System.Data.SqlDbType.Money);
                     returnParam.Direction = System.Data.ParameterDirection.ReturnValue;
+                    
+                    // Execute stored procedure
                     myCmd.ExecuteNonQuery();
+                    
+                    // Retrieve and display returned dollar amount
                     var currBalance = returnParam.Value;
                     Console.WriteLine("CURRENT BALANCE: ${0}", currBalance);
 
